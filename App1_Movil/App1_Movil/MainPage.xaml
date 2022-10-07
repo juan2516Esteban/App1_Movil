@@ -9,6 +9,7 @@
         </StackLayout>
         <StackLayout VerticalOptions="End" Margin="40,40">
             <Button Text="lOGIN" FontSize="22" CornerRadius="30" Padding="100,2,100,2" Background="green" HorizontalOptions="Center" Margin="20,20" />
+            
             <Label Text="Registrate" FontSize="20" HorizontalOptions="Center" ></Label>
         </StackLayout>
     </StackLayout>
